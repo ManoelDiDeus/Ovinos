@@ -1,0 +1,6 @@
+{
+  "name": "CurralGestão",
+  "description": "Aplicativo completo de gestão agropecuária para controle de animais, pesagem por Bluetooth, RFID, cruzamentos e piquetes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
